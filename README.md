@@ -1,2 +1,2 @@
 # rhgs
-Things about Red Hat Ceph Storage
+Things about Red Hat Gluster Storage
